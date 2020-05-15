@@ -1,4 +1,5 @@
 #home-text {
     position: absolute;
     right: 0;
+    float: right;
 }
