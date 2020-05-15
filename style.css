@@ -1,6 +1,5 @@
 #home-text {
-    position: absolute;
-    right: 0;
-    float: right;
-    color: blue;
+    position: absolute !important;
+    right: 0 !important;
+    color: blue !important;
 }
